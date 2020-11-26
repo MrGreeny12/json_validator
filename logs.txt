@@ -1,0 +1,12 @@
+
+Json-файл: event/1eba2aa1-2acf-460d-91e6-55a8c3e3b7a3.json
+Json-schema: schema/label_selected.schema
+
+
+Ошибка: 'id' is a required property 
+Ошибка: 'labels' is a required property 
+Ошибка: 'rr_id' is a required property 
+Ошибка: 'timestamp' is a required property 
+Ошибка: 'unique_id' is a required property 
+Ошибка: 'user' is a required property 
+Ошибка: 'user_id' is a required property 
